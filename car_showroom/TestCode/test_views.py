@@ -1,9 +1,11 @@
-# from django.test import SimpleTestCase, Client
+# from django.test import TestCase, Client
 # from django.urls import reverse
 # from showroom.models import Customer, Products, Booking, Manufacturer, Car, Accesories, UserMessage
+# from showroom.views import signup, login, search, logout, index, car_products, about_us, accessories, singleaccessory, singlecar, contact_us, booking, createbooking, profile, updateprofile
+
 # import json
 
-# class TestViews(SimpleTestCase):
+# class TestViews(TestCase):
 
 
 #     def test_signup_GET(self):
